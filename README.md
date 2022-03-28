@@ -6,8 +6,7 @@ En aquest exercici anem afegir el paquet framework express.
 
 ## Requisits
 
-- Primer fer un _Fork_ d'aquest repositori https://github.com/rgarciamvm/node-express-exam.git
-- Després clona __el teu__ repositori
+- El codi per reaitzar aquesta tasca. Repositori https://github.com/rgarciamvm/node-express-exam.git
 
 ## Lliurament
 
@@ -22,7 +21,7 @@ $ git push origin master
 
 Per enviar l'exercici feu servir el classroom:
 
-1. Heu d'enviar-me el link del vostre repositori github (exemple : https://github.com/usuari/node-express-exam.git)
+1. Heu d'enviar-me el link del vostre repositori github (exemple : https://github.com/usuari/node-express-extendeduser.git)
 2. Heu d'enviar-me els fitxers un ZIP amb **TOT** el codi.
 
 ## S'ha de codificar
