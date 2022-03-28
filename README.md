@@ -227,7 +227,7 @@ Content-Type: application/json
 
 ```
 
-## Codificar **eliminar usuari** (2 PUNT)
+## Codificar **eliminar usuari** (+2 punts)
 
 Un usuari prèviament registrat, amb el missatge HTTP DELETE /user s'ha de poder marcar l'usuari com a eliminat. Ho marcarem afegint la propietat active = 0.
 
